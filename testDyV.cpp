@@ -43,4 +43,4 @@ int main()
     std::cout << "\nBusqueda de 'c': " << indiceChar << '\n';
 
     return 0;
-}
+} 
