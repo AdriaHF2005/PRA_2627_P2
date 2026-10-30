@@ -72,4 +72,4 @@ int main() {
         cout << "  Moneda de " << m[i] << ": " << s[i] << endl;
 
     return 0;
-}
+} 
